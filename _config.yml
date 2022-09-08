@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url:  https://adw2343.github.io/laining.github.io/
 date_format: "ordinal"
 title: 进击的程序员大叔
 description: "赖宁的个人博客"
